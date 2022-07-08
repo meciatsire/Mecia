@@ -1,0 +1,37 @@
+
+   h1#myfirstid {
+     color: green;
+     font-size: 30px;
+     padding: 6px;
+     border: 15px crimson solid
+}
+
+
+ body{
+    background-color: pink;
+ }
+  img{
+    border:10px pink solid;
+    width: 400px;
+    height: 400px;
+    transition:  0.1s ease;
+  }
+
+  li:hover{
+     font-size: 40px;
+  }
+
+  img:hover{
+     height: 150px;
+     width: 150px;
+  }
+
+  li{
+     transition: 0.3s ease;
+  }
+ ol{
+   background-color: pink;
+ }
+ ul{
+    background-color: pink;
+ }

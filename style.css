@@ -1,0 +1,31 @@
+* {
+   box-sizing: border-box;
+   font-family:'Muli', sans-serif;
+   text-align: center;
+   background-color:pink;
+  }
+
+
+  h1 {
+    color: slategray;
+    font-weight: 500;
+    padding-top: 40px;
+  }
+
+  .red {
+    color: white;
+    font-size:40px;
+
+  }
+
+  .btn-twitter {
+    background: #00acee;
+    border-color: #009ad5;
+  }
+  .btn-facebook {
+    background-color:#4868ac;
+    border-color:#314776;
+  }
+  .btn-pinterest {
+    backround:#b62f26;
+  }
